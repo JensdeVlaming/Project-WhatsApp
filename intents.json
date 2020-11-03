@@ -1,0 +1,49 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hey",
+        "Hello",
+        "Hi there",
+        "Is there anyone?",
+        "Sup"
+      ],
+      "responses": [
+        "Hey!",
+        "Hi",
+        "Hello!",
+      ]
+    },
+
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Goodbye",
+        "Bye",
+        "Have a good day",
+        "See you",
+        "So long"
+      ],
+      "responses": [
+        "Bye!",
+        "Goodbye!",
+        "See you!"
+      ]
+    },
+
+    {
+      "tag": "restart",
+      "patterns": [
+        "Restart"
+      ]
+    },
+    
+    {
+      "tag": "stop",
+      "patterns": [
+        "Stop"
+      ]
+    }
+  ]
+}
