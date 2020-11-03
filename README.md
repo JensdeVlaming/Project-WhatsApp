@@ -29,7 +29,7 @@ First running this script or changed something related to the intents.json:
 > python3 train.py
 ```
 
-Running that WhatsApp chatbot:
+Running the WhatsApp chatbot:
 ```bash
 > python3 chatbot.py
 ```
