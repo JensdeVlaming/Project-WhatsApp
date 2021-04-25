@@ -1,5 +1,5 @@
 # Project-WhatsApp
-A machine learning WhatsApp bot
+A machine learning WhatsApp bot. This project is deprecated and no longer in active development.
 
 # Clone this project
 ```bash
